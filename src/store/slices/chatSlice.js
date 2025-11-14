@@ -4,7 +4,7 @@ const initialState = {
   messages: [
     {
       id: 1,
-      text: 'مرحباً! أنا Pill Pal AI، مساعدك الطبي الذكي. كيف يمكنني مساعدتك اليوم؟',
+      text: 'مرحباً! أنا Sli-HealthI، مساعدك الطبي الذكي. كيف يمكنني مساعدتك اليوم؟',
       isUser: false,
       timestamp: new Date().toISOString(),
     },

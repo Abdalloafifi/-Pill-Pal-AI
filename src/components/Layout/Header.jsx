@@ -23,11 +23,11 @@ const Header = () => {
         <div className="w-16 h-16 rounded-full overflow-hidden">
           <img
             src="/unnamed.jpg"
-            alt="Pill Pal AI"
+            alt="Sli-Health"
             className="w-full h-full object-cover rounded-full"
           />
         </div>
-        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Pill Pal AI</h1>
+        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Sli-Health</h1>
       </div>
       
       <div className="flex items-center gap-4">
